@@ -11,7 +11,7 @@ The list is ordered by priority, from the most important to the least important.
     - [ ] [Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick)
     - [ ] [Timers](https://nodejs.org/en/docs/guides/timers-in-node)
     - [ ] [Promises](https://nodejs.org/en/docs/guides/dont-block-the-event-loop)
-    - [ ] [Promisify](https://nodejs.org/api/util.html#utilpromisifyoriginal)
+    - [X] [Promisify](https://nodejs.org/api/util.html#utilpromisifyoriginal)
   - [ ] Control flow abstractions
 - [ ] Buffer and Strems
   - [ ] Node.js Buffer API's
