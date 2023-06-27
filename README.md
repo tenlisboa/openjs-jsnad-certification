@@ -6,7 +6,12 @@ This is a repository with my notes and practices along my self studies for the J
 The list is ordered by priority, from the most important to the least important.
 
 - [ ] Control Flow
-  - [x] Managing asynchronous operations
+  - [ ] Managing asynchronous operations
+    - [x] [Blocking-vs-Non-Blocking](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking)
+    - [ ] [Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick)
+    - [ ] [Timers](https://nodejs.org/en/docs/guides/timers-in-node)
+    - [ ] [Promises](https://nodejs.org/en/docs/guides/dont-block-the-event-loop)
+    - [ ] [Promisify](https://nodejs.org/api/util.html#utilpromisifyoriginal)
   - [ ] Control flow abstractions
 - [ ] Buffer and Strems
   - [ ] Node.js Buffer API's
