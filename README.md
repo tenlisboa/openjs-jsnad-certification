@@ -6,7 +6,7 @@ This is a repository with my notes and practices along my self studies for the J
 The list is ordered by priority, from the most important to the least important.
 
 - [ ] Control Flow
-  - [ ] Managing asynchronous operations
+  - [x] Managing asynchronous operations
   - [ ] Control flow abstractions
 - [ ] Buffer and Strems
   - [ ] Node.js Buffer API's
