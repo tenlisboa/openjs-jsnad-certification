@@ -49,8 +49,8 @@ The list is ordered by priority, from the most important to the least important.
   - [ ] Using assertions
   - [ ] Testing synchronous code
   - [ ] Testing asynchronous code
-- [ ] Node.js CLI
-  - [ ] Node executable command line flags
+- [x] Node.js CLI
+  - [x] Node executable command line flags
 
 ## Free Resources
 
