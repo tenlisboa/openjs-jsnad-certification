@@ -36,8 +36,8 @@ The list is ordered by priority, from the most important to the least important.
   - [ ] Scope to core language features introduced since EcmaScript 1 and still heavily used today
 - [ ] Module System
   - [ ] CommonJS Module System only
-- [ ] Diagnostics
-  - [ ] Debugging Node.js
+- [x] Diagnostics
+  - [x] Debugging Node.js
   - [ ] Basic performance analysis
 - [ ] Process/Operating System
   - [ ] Controlling the process
