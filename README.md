@@ -31,11 +31,11 @@ The list is ordered by priority, from the most important to the least important.
 - [ ] File System
   - [ ] Input/Output
   - [ ] Watching
-- [ ] JavaScript prerequisites
-  - [ ] Language fundamentals
-  - [ ] Scope to core language features introduced since EcmaScript 1 and still heavily used today
-- [ ] Module System
-  - [ ] CommonJS Module System only
+- [x] JavaScript prerequisites
+  - [x] Language fundamentals
+  - [x] Scope to core language features introduced since EcmaScript 1 and still heavily used today
+- [x] Module System
+  - [x] CommonJS Module System only
 - [x] Diagnostics
   - [x] Debugging Node.js
   - [x] Basic performance analysis
