@@ -23,3 +23,14 @@ const opC = (cb) => {
     cb(null, 'C')
   }, 125)
 }
+
+opA((err, contents) => {
+  print(err, contents)
+  opB((err, contents) => {
+    print(err, contents)
+    opC((err, contents) => {
+      print(err, contents)
+    })
+  })
+})
+

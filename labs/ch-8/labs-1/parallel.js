@@ -21,3 +21,4 @@ const opC = (cb) => {
   }, 125)
 }
 
+[ opA, opB, opC ].forEach((op) => op(print))

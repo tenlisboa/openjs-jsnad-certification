@@ -1,0 +1,3 @@
+# Promises 
+
+One new thing is the `Promise.allSettled` function that resolves the promises and returns for everyone an object that contains a property status with the values `rejected` and `fullfiled` that means the promises were resolved, the rejected ones have a property called `reason` with the error associated with the rejection and the fullfiled have the property `value` with the resolved value.
