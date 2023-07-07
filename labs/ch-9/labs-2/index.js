@@ -5,4 +5,8 @@ process.nextTick(console.log, 'passed!')
 
 const ee = new EventEmitter()
 
+ee.on('error', (err) => {
+  console.error(`You got an error Budy: ${err.message}`)
+})
+
 ee.emit('error', Error('timeout'))

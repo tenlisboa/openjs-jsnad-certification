@@ -5,23 +5,23 @@ This is a repository with my notes and practices along my self studies for the J
 
 The list is ordered by priority, from the most important to the least important.
 
-- [ ] Control Flow
+- [x] Control Flow
   - [x] Managing asynchronous operations
     - [x] [Blocking-vs-Non-Blocking](https://nodejs.org/en/docs/guides/blocking-vs-non-blocking)
     - [x] [Event Loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick)
     - [x] [Timers](https://nodejs.org/en/docs/guides/timers-in-node)
     - [x] [Don't Block Event Loop](https://nodejs.org/en/docs/guides/dont-block-the-event-loop)
     - [x] [Promisify](https://nodejs.org/api/util.html#utilpromisifyoriginal)
-  - [ ] Control flow abstractions
+  - [x] Control flow abstractions
 - [ ] Buffer and Strems
   - [ ] Node.js Buffer API's
   - [ ] Incremental Processing
   - [ ] Transforming Data with Streams
   - [ ] Connecting Streams
-- [ ] Events
-  - [ ] The event system
-  - [ ] Building event emitters
-  - [ ] Consuming event emitters
+- [x] Events
+  - [x] The event system
+  - [x] Building event emitters
+  - [x] Consuming event emitters
 - [ ] Child Processes
   - [ ] Spawning and Executing child processes
   - [ ] Child process configuration
