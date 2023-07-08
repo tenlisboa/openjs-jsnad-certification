@@ -1,4 +1,5 @@
 # openjs-jsnad-certification
+
 This is a repository with my notes and practices along my self studies for the JSNAD Certification.
 
 ## Certification Requirements
@@ -14,7 +15,7 @@ The list is ordered by priority, from the most important to the least important.
     - [x] [Promisify](https://nodejs.org/api/util.html#utilpromisifyoriginal)
   - [x] Control flow abstractions
 - [ ] Buffer and Strems
-  - [ ] Node.js Buffer API's
+  - [x] Node.js Buffer API's
   - [ ] Incremental Processing
   - [ ] Transforming Data with Streams
   - [ ] Connecting Streams
@@ -55,6 +56,7 @@ The list is ordered by priority, from the most important to the least important.
 ## Free Resources
 
 #### Reading
+
 - [Node.js Free Guides](https://nodejs.dev/learn)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [Node.js Guide Page](https://nodejs.org/en/docs/guides)
@@ -62,5 +64,6 @@ The list is ordered by priority, from the most important to the least important.
 - [ChatGPT](https://chat.openai.com)
 
 #### Courses
+
 - [Introduction to protocol Buffers](https://training.linuxfoundation.org/training/introduction-to-protocol-buffers-lfs145/)
 - [Introduction to NodeJS](https://training.linuxfoundation.org/training/introduction-to-nodejs-lfw111/)
