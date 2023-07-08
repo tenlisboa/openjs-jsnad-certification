@@ -25,9 +25,9 @@ The list is ordered by priority, from the most important to the least important.
 - [ ] Child Processes
   - [ ] Spawning and Executing child processes
   - [ ] Child process configuration
-- [ ] Error Handling
-  - [ ] Common patterns
-  - [ ] Handling errors in various scenarios
+- [x] Error Handling
+  - [x] Common patterns
+  - [x] Handling errors in various scenarios
 - [ ] File System
   - [ ] Input/Output
   - [ ] Watching

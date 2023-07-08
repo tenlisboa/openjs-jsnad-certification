@@ -4,8 +4,12 @@ const { readFile } = require('fs/promises')
 const assert = require('assert')
 
 async function read (file) {
-  const content = await readFile(file)
-  return content
+  try {
+    const content = await readFile(file)
+    return content
+  } catch (error) {
+    throw new Error('failed to read')
+  }
 }
 
 
