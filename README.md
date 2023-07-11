@@ -14,11 +14,11 @@ The list is ordered by priority, from the most important to the least important.
     - [x] [Don't Block Event Loop](https://nodejs.org/en/docs/guides/dont-block-the-event-loop)
     - [x] [Promisify](https://nodejs.org/api/util.html#utilpromisifyoriginal)
   - [x] Control flow abstractions
-- [ ] Buffer and Strems
+- [x] Buffer and Strems
   - [x] Node.js Buffer API's
-  - [ ] Incremental Processing
-  - [ ] Transforming Data with Streams
-  - [ ] Connecting Streams
+  - [x] Incremental Processing
+  - [x] Transforming Data with Streams
+  - [x] Connecting Streams
 - [x] Events
   - [x] The event system
   - [x] Building event emitters

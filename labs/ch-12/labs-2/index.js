@@ -18,7 +18,12 @@ const writable = createWritable()
 // TODO: replace the pass through stream 
 // with a transform stream that uppercases
 // incoming characters
-const transform = new PassThrough()
+const transform = new Transform({
+  transform(chunk, enc, cb) {
+    this.push(chunk.toString().toUpperCase())
+    cb()
+  }
+})
 
 pipeline(readable, transform, writable, (err) => {
   assert.ifError(err)
