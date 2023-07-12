@@ -29,9 +29,9 @@ The list is ordered by priority, from the most important to the least important.
 - [x] Error Handling
   - [x] Common patterns
   - [x] Handling errors in various scenarios
-- [ ] File System
-  - [ ] Input/Output
-  - [ ] Watching
+- [x] File System
+  - [x] Input/Output
+  - [x] Watching
 - [x] JavaScript prerequisites
   - [x] Language fundamentals
   - [x] Scope to core language features introduced since EcmaScript 1 and still heavily used today

@@ -6,7 +6,7 @@ const fsp = require('fs/promises')
 const { setTimeout: timeout } = require('timers/promises')
 const project = join(__dirname, 'project')
 
-try { fs.rmdirSync(project, { recursive: true }) } catch (err) {
+try { fs.rmSync(project, { recursive: true }) } catch (err) {
   console.error(err)
 }
 fs.mkdirSync(project)
@@ -50,8 +50,11 @@ function exercise (project) {
 
       // TODO - only set the answer variable if the filepath
       // is both newly created AND does not point to a directory
-
-      answer = filepath
+      if (files.has(filename) === false) {
+        if (!stat.isDirectory()) {
+          answer = filepath
+        }
+      }
     } catch (err) {
 
     }
