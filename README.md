@@ -40,9 +40,9 @@ The list is ordered by priority, from the most important to the least important.
 - [x] Diagnostics
   - [x] Debugging Node.js
   - [x] Basic performance analysis
-- [ ] Process/Operating System
-  - [ ] Controlling the process
-  - [ ] Getting system data
+- [x] Process/Operating System
+  - [x] Controlling the process
+  - [x] Getting system data
 - [x] Package.json
   - [x] Package configuration
   - [x] Dependency management
