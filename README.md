@@ -23,9 +23,9 @@ The list is ordered by priority, from the most important to the least important.
   - [x] The event system
   - [x] Building event emitters
   - [x] Consuming event emitters
-- [ ] Child Processes
-  - [ ] Spawning and Executing child processes
-  - [ ] Child process configuration
+- [x] Child Processes
+  - [x] Spawning and Executing child processes
+  - [x] Child process configuration
 - [x] Error Handling
   - [x] Common patterns
   - [x] Handling errors in various scenarios
