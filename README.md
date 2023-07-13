@@ -46,10 +46,10 @@ The list is ordered by priority, from the most important to the least important.
 - [x] Package.json
   - [x] Package configuration
   - [x] Dependency management
-- [ ] Unit Testing
-  - [ ] Using assertions
-  - [ ] Testing synchronous code
-  - [ ] Testing asynchronous code
+- [x] Unit Testing
+  - [x] Using assertions
+  - [x] Testing synchronous code
+  - [x] Testing asynchronous code
 - [x] Node.js CLI
   - [x] Node executable command line flags
 
